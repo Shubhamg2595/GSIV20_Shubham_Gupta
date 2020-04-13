@@ -1,0 +1,5 @@
+export const Constants = {
+    'GET_TOP_MOVIES': 'GET_TOP_MOVIES',
+    'SEARCH_MOVIES': 'SEARCH_MOVIES',
+    'GET_MOVIE_DETAILS': 'GET_MOVIE_DETAILS',
+};

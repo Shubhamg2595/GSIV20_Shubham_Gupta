@@ -1,0 +1,1 @@
+export const MOVIE_DB_API_KEY = 'please use you own api-key-here';
