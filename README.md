@@ -10,7 +10,7 @@ to start application:
 
 - npm start
 
-Note: Before starting the application, please add api-key received from the 'The Movie DataBase' in 'api-keys' file.
+Note: Before starting the application, please add api-key received from the 'The Movie DataBase' in 'src/api-keys' file.
 
 Upcoming updates
 
